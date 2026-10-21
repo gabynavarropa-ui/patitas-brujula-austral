@@ -1,0 +1,23 @@
+{
+  "id": "/patitas-brujula-austral/",
+  "name": "Patitas · Brújula Austral Familia",
+  "short_name": "Patitas",
+  "description": "Mapa comunitario para avisar de mascotas encontradas y ayudar a que vuelvan a casa.",
+  "lang": "es-CL",
+  "start_url": "/patitas-brujula-austral/",
+  "scope": "/patitas-brujula-austral/",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#e8f0eb",
+  "theme_color": "#176548",
+  "categories": ["social", "lifestyle", "utilities"],
+  "icons": [
+    {"src": "https://brujula-austral.vercel.app/brujula-austral-perfil-facebook.png", "sizes": "1254x1254", "type": "image/png", "purpose": "any"},
+    {"src": "https://brujula-austral.vercel.app/brujula-austral-perfil-facebook.png", "sizes": "1254x1254", "type": "image/png", "purpose": "maskable"}
+  ],
+  "shortcuts": [
+    {"name": "Ver el mapa", "short_name": "Mapa", "url": "/patitas-brujula-austral/", "icons": [{"src": "https://brujula-austral.vercel.app/brujula-austral-perfil-facebook.png", "sizes": "1254x1254", "type": "image/png"}]},
+    {"name": "Más encuentros", "short_name": "Encuentros", "url": "/patitas-brujula-austral/encuentros.html", "icons": [{"src": "https://brujula-austral.vercel.app/brujula-austral-perfil-facebook.png", "sizes": "1254x1254", "type": "image/png"}]}
+  ]
+}
+
